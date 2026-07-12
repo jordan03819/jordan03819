@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a third-year Computer Science undergrad at Multimedia University, Cyberjaya. I am passionate about Game Design, Hacking, and Free Software.
-Currently focused on making games in Unreal Engine.
+I am a third-year Computer Science undergrad at Multimedia University, Cyberjaya. Currently focused on making games in Unreal Engine.
+I am passionate about Game Design, Hacking, and Free Software.
 - Developing games in Godot and Unreal Engine.
 - Ask me about reverse engineering with IDA/Ghidra and Linux environments!
 
@@ -24,7 +24,7 @@ Currently focused on making games in Unreal Engine.
 
 ✍️ Java, Kotlin, C++, C#, GDScript, GLSL, Python, Bash
 
-⚙️ Godot, Unreal Engine, Unity, Android Studio, Git, Docker
+⚙️ Godot, Unreal Engine, Unity, Monogame, Android Studio, Git, Docker
 
 🐧 Linux, IDA, Ghidra, Frida
 
