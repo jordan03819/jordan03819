@@ -21,4 +21,3 @@ I am a third-year Computer Science student at MMU with interest in Hacking and G
 - Ask me about reverse engineering with IDA/Ghidra and Linux environments!
 
 **Stack** · Java, Kotlin, C++, GDScript, Python, Bash
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan03819&layout=compact&theme=graywhite&hide_border=true)
