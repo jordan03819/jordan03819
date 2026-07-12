@@ -1,4 +1,4 @@
-## Hello! I am Jordan 👋
+## Hi there! I am Jordan 👋
 
 <!--
 **jordan03819/jordan03819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a third-year Computer Science student at MMU with interest in Hacking and Game Development. My academic work is complemented by a strong interest in game design and modern system development.
-- Always expanding my knowledge in Java, Kotlin, C++, C#, and GLSL.
+I am a third-year Computer Science undergrad at Multimedia University, Cyberjaya. I am passionate about Game Design, Hacking, and Free Software.
+Currently focused on making games in Unreal Engine.
 - Developing games in Godot and Unreal Engine.
 - Ask me about reverse engineering with IDA/Ghidra and Linux environments!
 
-**Stack** · Java, Kotlin, C++, GDScript, Python, Bash
+**Skills:**
+
+✍️ Java, Kotlin, C++, C#, GDScript, GLSL, Python, Bash
+
+⚙️ Godot, Unreal Engine, Unity, Android Studio, Git, Docker
+
+🐧 Linux, IDA, Ghidra, Frida
+
+🌏 English, Chinese, Malay, Vietnamese
