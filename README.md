@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I am Jordan 👋
 
 <!--
 **jordan03819/jordan03819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a third-year Computer Science student at MMU with interest in Hacking and Game Development. My academic work is complemented by a strong interest in game design and modern system development.
+- Always expanding my knowledge in Java, Kotlin, C++, C#, and GLSL.
+- Developing games in Godot and Unreal Engine.
+- Ask me about reverse engineering with IDA/Ghidra and Linux environments!
+
+**Stack** · Java, Kotlin, C++, GDScript, Python, Bash
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordan03819&layout=compact&theme=graywhite&hide_border=true)
